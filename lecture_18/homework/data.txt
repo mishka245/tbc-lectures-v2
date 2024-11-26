@@ -1,0 +1,8 @@
+john_doe,apple,1,2.5
+jane_smith,banana,5,1.2
+sam_jones,orange,10,1.0
+lisa_white,grapes,3,3.5
+peter_black,mango,2,15.0
+kate_brown,pineapple,1,8.0
+alex_green,watermelon,1,20.0
+emily_clark,pear,4,2.0

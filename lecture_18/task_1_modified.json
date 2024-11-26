@@ -1,0 +1,15 @@
+{
+  "test_key": "some string",
+  "number": 1234,
+  "number_float": 1234.5,
+  "list": [
+    "123",
+    "test",
+    "I am from program"
+  ],
+  "bool": true,
+  "null": null,
+  "nested": {
+    "data": null
+  }
+}
