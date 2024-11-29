@@ -1,0 +1,69 @@
+{
+  "department_1": {
+    "name": "Department 1",
+    "description": "This is the first department",
+    "employees": [
+      {
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "salary": "100"
+      },
+      {
+        "name": "Jane Doe",
+        "position": "Architect",
+        "salary": "140"
+      },
+      {
+        "name": "Jim Doe",
+        "position": "Junior java engineer",
+        "salary": "120"
+      },
+      {
+        "name": "Jill Doe",
+        "position": "Senior Python Engineer",
+        "salary": "110"
+      },
+      {
+        "name": "Jack Doe",
+        "position": "Senior Java Engineer",
+        "salary": "130"
+      }
+    ]
+  },
+  "department_2": {
+    "name": "Department 2",
+    "description": "This is the second department",
+    "employees": [
+      {
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "salary": "None"
+      },
+      {
+        "name": "Jane Doe",
+        "position": "Architect",
+        "salary": "140"
+      },
+      {
+        "name": "Jim Doe",
+        "position": "Junior java engineer",
+        "salary": "120"
+      },
+      {
+        "name": "Jill Doe",
+        "position": "Senior Python Engineer",
+        "salary": "110"
+      },
+      {
+        "name": "Jack Doe",
+        "position": "Senior Java Engineer",
+        "salary": "130"
+      }
+    ]
+  },
+  "department_3": {
+    "name": "Department 3",
+    "description": "This is the third department",
+    "employees": []
+  }
+}
