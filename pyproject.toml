@@ -17,6 +17,16 @@ sqlalchemy = "^2.0.36"
 psycopg2 = "^2.9.10"
 fastapi = "^0.115.6"
 uvicorn = "^0.34.0"
+ruff = "^0.9.6"
+radon = "^6.0.1"
+pylint = "^3.3.4"
+vulture = "^2.14"
+mypy = "^1.15.0"
+pythonturtle = "^0.3.2"
+tk = "^0.1.0"
+reportlab = "^4.3.1"
+guizero = "^1.6.0"
+notebook = "^7.3.2"
 
 
 [build-system]
